@@ -15,6 +15,7 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 # Los participantes del curso son:
 
 **Docentes y apoyo**
+- Moises Gualapuro
 - Alex Sánchez
 - Abigail Galarza
 
