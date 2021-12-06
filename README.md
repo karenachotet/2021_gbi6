@@ -1,16 +1,16 @@
 # BIOINFORMÁTICA
-En este curso se revisarán los siguientes temas: 
+En este curso se revisarán los siguientes temas:
 - Unix
 - Linea de comando
 - Versión de control
 - Conceptos de bioinformatica
 - Programación
-- Python 
+- Python
 - R
 
-# Objetivo del curso: 
+# Objetivo del curso:
 
-En este cursos se aprenderá sobre el uso de herramientas informáticas para el análisis de datos biológicos. 
+En este cursos se aprenderá sobre el uso de herramientas informáticas para el análisis de datos biológicos.
 
 # Los participantes del curso son:
 
@@ -22,9 +22,12 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 
 - Estudiante 1: video de YouTube sobre "GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes": <href>https://youtu.be/hWglK8nWh60</href>.
 
-- Estudiante 2: considere las figuras: 
+- Estudiante 2: figura del propio repositorio:
 
-![Ejemplo Imagen del Repositorio](/gitout.jpg),  ![Ejemplo imagen desde una URL](https://myoctocat.com/assets/images/base-octocat.svg)
+![Ejemplo Imagen del Repositorio](/gitout.jpg)
 
+- Estudiante 3: figura de un URL:
 
+![Ejemplo imagen desde una URL](https://myoctocat.com/assets/images/base-octocat.svg)
 
+- Estudiante4 aún no ha realizado cambios.
