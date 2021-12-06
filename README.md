@@ -18,8 +18,8 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 - Moises Gualapuro
 - Alberto Robles
 
-**Estudiantes**
+<h3>**Estudiantes** </href>
 
 Estudiante 1: video de **YouTube** 
-<h3>GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes:</h3> <href>https://youtu.be/hWglK8nWh60</href>
+<p style:"color: red;">GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes:</p> <href>https://youtu.be/hWglK8nWh60</href>
 
