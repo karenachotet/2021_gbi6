@@ -20,7 +20,7 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 
 <h3>Estudiantes:</h3>
 
-- Estudiante 1: video de YouTube sobre "GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes":</p> <href>https://youtu.be/hWglK8nWh60</href>.
+- Estudiante 1: video de YouTube sobre "GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes": <href>https://youtu.be/hWglK8nWh60</href>.
 
 - Estudiante 2: considere las figuras: 
 
