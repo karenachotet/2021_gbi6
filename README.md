@@ -24,9 +24,7 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 
 - Estudiante 2: considere las figuras: 
 
-![Ejemplo Imagen del Repositorio](/gitout.jpg) 
- 
-![Ejemplo imagen desde una URL](https://myoctocat.com/assets/images/base-octocat.svg)
+![Ejemplo Imagen del Repositorio](/gitout.jpg),  ![Ejemplo imagen desde una URL](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
