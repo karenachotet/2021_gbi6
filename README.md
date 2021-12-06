@@ -22,7 +22,10 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 
 - Estudiante 1: video de YouTube sobre "GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes":</p> <href>https://youtu.be/hWglK8nWh60</href>.
 
-- Estudiante 2: considere la figura ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+- Estudiante 2: considere la figura ![Ejemplo Imagen del Repositorio](/gitout.jpg) 
+ 
+ 
+![Ejemplo imagen desde una URL](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
