@@ -19,9 +19,6 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 - Alberto Robles
 
 **Estudiantes**
-Estudiante 1: 
- <iframe width="560" height="315"
-src="https://www.youtube.com/embed/hWglK8nWh60" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+Estudiante 1: https://youtu.be/hWglK8nWh60
+
