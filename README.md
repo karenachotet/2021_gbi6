@@ -32,4 +32,5 @@ En este cursos se aprenderá sobre el uso de herramientas informáticas para el 
 
 - Estudiante4 aún no ha realizado cambios.
 
-- Estudiante 5: [Ejemplo imagen desde una URL] (https://bioinf.comav.upv.es/courses/unix/static/tux.png) 
+- Estudiante 5: [Ejemplo imagen desde una URL] (https://bioinf.comav.upv.es/courses/unix/static/tux.png)
+Estudiantes unidos GBI6_2021
